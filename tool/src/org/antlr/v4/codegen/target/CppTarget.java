@@ -76,7 +76,7 @@ public class CppTarget extends Target {
 	}
 
 	public String getVersion() {
-		return "4.1";
+		return "4.5.2";
 	}
 
 	public Set<String> getBadWords() {
