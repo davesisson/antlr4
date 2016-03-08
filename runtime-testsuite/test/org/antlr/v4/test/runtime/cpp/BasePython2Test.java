@@ -1,6 +1,6 @@
-package org.antlr.v4.test.runtime.python2;
+package org.antlr.v4.test.runtime.cpp;
 
-import org.antlr.v4.test.runtime.python.BasePythonTest;
+import org.antlr.v4.test.runtime.cpp.BasePythonTest;
 import org.stringtemplate.v4.ST;
 
 public abstract class BasePython2Test extends BasePythonTest {
