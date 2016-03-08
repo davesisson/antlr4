@@ -81,6 +81,7 @@
           <systemPropertyVariables>
             <antlr-python2-runtime>../../antlr4-python2/src</antlr-python2-runtime>
             <antlr-python3-runtime>../../antlr4-python3/src</antlr-python3-runtime>
+            <antlr-cpp-runtime-project>../../antlr4-cpp/src</antlr-cpp-runtime-project>
             <antlr-csharp-runtime-project>../../antlr4-csharp/runtime/CSharp/Antlr4.Runtime/Antlr4.Runtime.mono.csproj</antlr-csharp-runtime-project>
             <antlr-javascript-runtime>../../antlr4-javascript/src</antlr-javascript-runtime>
           </systemPropertyVariables>
